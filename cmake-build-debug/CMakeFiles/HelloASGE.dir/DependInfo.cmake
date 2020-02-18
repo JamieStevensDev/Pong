@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/Ball.cpp" "/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/MyGame.cpp" "/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o"
-  "/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/main.cpp" "/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE.dir/main.cpp.o"
+  "/Users/jamie/portfolio/Pong/Source/Ball.cpp" "/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o"
+  "/Users/jamie/portfolio/Pong/Source/MyGame.cpp" "/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o"
+  "/Users/jamie/portfolio/Pong/main.cpp" "/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

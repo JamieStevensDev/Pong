@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92
+CMAKE_SOURCE_DIR = /Users/jamie/portfolio/Pong
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jamie/portfolio/Pong/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/HelloASGE.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/HelloASGE.dir/flags.make
 
 CMakeFiles/HelloASGE.dir/main.cpp.o: CMakeFiles/HelloASGE.dir/flags.make
 CMakeFiles/HelloASGE.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HelloASGE.dir/main.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HelloASGE.dir/main.cpp.o -c /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HelloASGE.dir/main.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HelloASGE.dir/main.cpp.o -c /Users/jamie/portfolio/Pong/main.cpp
 
 CMakeFiles/HelloASGE.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HelloASGE.dir/main.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/main.cpp > CMakeFiles/HelloASGE.dir/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jamie/portfolio/Pong/main.cpp > CMakeFiles/HelloASGE.dir/main.cpp.i
 
 CMakeFiles/HelloASGE.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HelloASGE.dir/main.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/main.cpp -o CMakeFiles/HelloASGE.dir/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jamie/portfolio/Pong/main.cpp -o CMakeFiles/HelloASGE.dir/main.cpp.s
 
 CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o: CMakeFiles/HelloASGE.dir/flags.make
 CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o: ../Source/MyGame.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o -c /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/MyGame.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.o -c /Users/jamie/portfolio/Pong/Source/MyGame.cpp
 
 CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/MyGame.cpp > CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jamie/portfolio/Pong/Source/MyGame.cpp > CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.i
 
 CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/MyGame.cpp -o CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jamie/portfolio/Pong/Source/MyGame.cpp -o CMakeFiles/HelloASGE.dir/Source/MyGame.cpp.s
 
 CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o: CMakeFiles/HelloASGE.dir/flags.make
 CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o: ../Source/Ball.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o -c /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/Ball.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HelloASGE.dir/Source/Ball.cpp.o -c /Users/jamie/portfolio/Pong/Source/Ball.cpp
 
 CMakeFiles/HelloASGE.dir/Source/Ball.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HelloASGE.dir/Source/Ball.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/Ball.cpp > CMakeFiles/HelloASGE.dir/Source/Ball.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/jamie/portfolio/Pong/Source/Ball.cpp > CMakeFiles/HelloASGE.dir/Source/Ball.cpp.i
 
 CMakeFiles/HelloASGE.dir/Source/Ball.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HelloASGE.dir/Source/Ball.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Source/Ball.cpp -o CMakeFiles/HelloASGE.dir/Source/Ball.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/jamie/portfolio/Pong/Source/Ball.cpp -o CMakeFiles/HelloASGE.dir/Source/Ball.cpp.s
 
 # Object files for target HelloASGE
 HelloASGE_OBJECTS = \
@@ -116,7 +116,7 @@ bin/HelloASGE: ../Libs/ASGE/lib/osx/libfreetyped.a
 bin/HelloASGE: ../Libs/ASGE/lib/osx/libphysfscppd.a
 bin/HelloASGE: ../Libs/ASGE/lib/osx/libphysfsd.a
 bin/HelloASGE: CMakeFiles/HelloASGE.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable bin/HelloASGE"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable bin/HelloASGE"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/HelloASGE.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -129,6 +129,6 @@ CMakeFiles/HelloASGE.dir/clean:
 .PHONY : CMakeFiles/HelloASGE.dir/clean
 
 CMakeFiles/HelloASGE.dir/depend:
-	cd /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92 /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92 /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jamie/portfolio/Pong/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamie/portfolio/Pong /Users/jamie/portfolio/Pong /Users/jamie/portfolio/Pong/cmake-build-debug /Users/jamie/portfolio/Pong/cmake-build-debug /Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HelloASGE.dir/depend
 

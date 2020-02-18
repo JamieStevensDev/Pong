@@ -43,10 +43,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92
+CMAKE_SOURCE_DIR = /Users/jamie/portfolio/Pong
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/jamie/portfolio/Pong/cmake-build-debug
 
 # Utility rule file for HelloASGE+GameData.
 
@@ -54,8 +54,8 @@ CMAKE_BINARY_DIR = /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens9
 include CMakeFiles/HelloASGE+GameData.dir/progress.make
 
 CMakeFiles/HelloASGE+GameData:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "creating data archive"
-	cd /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Data && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E tar cfv /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/bin/game.dat --format=7zip -- *
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "creating data archive"
+	cd /Users/jamie/portfolio/Pong/Data && /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E tar cfv /Users/jamie/portfolio/Pong/cmake-build-debug/bin/game.dat --format=7zip -- *
 
 HelloASGE+GameData: CMakeFiles/HelloASGE+GameData
 HelloASGE+GameData: CMakeFiles/HelloASGE+GameData.dir/build.make
@@ -72,6 +72,6 @@ CMakeFiles/HelloASGE+GameData.dir/clean:
 .PHONY : CMakeFiles/HelloASGE+GameData.dir/clean
 
 CMakeFiles/HelloASGE+GameData.dir/depend:
-	cd /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92 /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92 /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE+GameData.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/jamie/portfolio/Pong/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/jamie/portfolio/Pong /Users/jamie/portfolio/Pong /Users/jamie/portfolio/Pong/cmake-build-debug /Users/jamie/portfolio/Pong/cmake-build-debug /Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE+GameData.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/HelloASGE+GameData.dir/depend
 

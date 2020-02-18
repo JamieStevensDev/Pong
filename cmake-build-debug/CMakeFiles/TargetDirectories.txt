@@ -1,6 +1,6 @@
-/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE+GameData.dir
-/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/CMakeFiles/HelloASGE.dir
-/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/Libs/CMakeFiles/rebuild_cache.dir
-/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/cmake-build-debug/Libs/CMakeFiles/edit_cache.dir
+/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE+GameData.dir
+/Users/jamie/portfolio/Pong/cmake-build-debug/CMakeFiles/HelloASGE.dir
+/Users/jamie/portfolio/Pong/cmake-build-debug/Libs/CMakeFiles/rebuild_cache.dir
+/Users/jamie/portfolio/Pong/cmake-build-debug/Libs/CMakeFiles/edit_cache.dir

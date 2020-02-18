@@ -1,4 +1,4 @@
-# Install script for directory: /Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Libs
+# Install script for directory: /Users/jamie/portfolio/Pong/Libs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

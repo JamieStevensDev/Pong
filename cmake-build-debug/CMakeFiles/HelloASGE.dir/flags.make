@@ -6,5 +6,5 @@ CXX_FLAGS =                  -framework Cocoa -framework OpenGL -framework IOKit
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/Users/jamie/Documents/uni/ESD/whoa-what-a-pong-JamieStevens92/Libs/ASGE/include 
+CXX_INCLUDES = -I/Users/jamie/portfolio/Pong/Libs/ASGE/include 
 
